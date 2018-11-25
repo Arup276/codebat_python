@@ -36,3 +36,12 @@ def parrot_trouble(talking, hour):
     return True
   else:
     return False
+
+Q6.
+def makes10(a, b):
+  if sum([a,b]) == 10 or a == 10 or b == 10:
+    return True
+  else:
+    return False
+    
+ 
