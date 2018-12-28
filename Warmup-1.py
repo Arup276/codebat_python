@@ -73,6 +73,6 @@ def near_hundred(n):
   def missing_char(str, n):
   lst = list(str)
   lst.pop(n)
-  
-  
   return ''.join(lst)
+
+
