@@ -75,4 +75,18 @@ def near_hundred(n):
   lst.pop(n)
   return ''.join(lst)
 
-
+  Q11.
+  def front_back(str):
+    len_str = len(str)
+    if len_str <= 1:
+      return str
+    else:
+      return str[len_str-1]+str[1:len_str-1]+str[0]
+  Q12.
+  # Little bit confused about the question
+  def front3(str):
+    #ln = len(str)
+    #if ln < 3:
+    #  return str
+    #else:
+    return 3*str[:3]
