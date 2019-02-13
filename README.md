@@ -17,4 +17,10 @@ This string class has many built-in methods [check_out](https://docs.python.org/
 
 
 # list
+
+List is mutable(changable) but string is immutable(not changable).  
+Slicing is same as string.  
 ![lst](https://user-images.githubusercontent.com/32811517/52711751-9dd54b00-2fb8-11e9-876e-ef84c453e057.PNG)
+
+
+For more [chack_out](https://docs.python.org/3/tutorial/datastructures.html)
