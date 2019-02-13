@@ -12,3 +12,9 @@ str = ' I love python '
 ```str.find('o')``` --> its find the argument that is passed and return the position (4)  
 
 This string class has many built-in methods [check_out](https://docs.python.org/3.6/library/string.html)
+
+
+
+
+# list
+![lst](https://user-images.githubusercontent.com/32811517/52711751-9dd54b00-2fb8-11e9-876e-ef84c453e057.PNG)
